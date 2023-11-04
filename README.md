@@ -144,5 +144,8 @@ print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
 ## OUTPUT 
+
 ![Screenshot 2023-04-17 113721](https://user-images.githubusercontent.com/75234807/232397944-d7dcb807-6bd3-454a-bc60-dc37c3a32306.png)
+
 ## RESULT
+Thus, a Multilayer Perceptron for Multi classification is implemented successfully.
